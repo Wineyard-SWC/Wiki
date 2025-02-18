@@ -4,7 +4,7 @@
   <img src="https://github.com/Wineyard-SWC/Wiki/blob/main/logoFondo.png" alt="Logo de Wineyard">
 
 
-  **Cultivando Conexiones, Cosechando Innovación.**
+  <h3><em>Cultivando Conexiones, Cosechando Innovación.</em></h3>
 </p>
 
 
