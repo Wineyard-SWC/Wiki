@@ -4,6 +4,6 @@ Wineyard es una consultoría de software dedicada a la creación de soluciones t
 # 📖 Documentación
 
 ## 📚 Índice  
-- [Nuestros Servicios](./Servicios)  
-- [Miembros del Equipo](./Miembros)  
-- [Proyectos](./Proyectos)  
+- [Nuestros Servicios](./Servicios.md)  
+- [Miembros del Equipo](./Miembros.md)  
+- [Proyectos](./Proyectos.md)  
