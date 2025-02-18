@@ -1,7 +1,7 @@
 # 🍇 Wineyard
 
 <p align="center">
-  <img src="https://github.com/Wineyard-SWC/Wiki/blob/main/Wineyard%20Logo.png" alt="Logo de Wineyard">
+  <img src="https://github.com/Wineyard-SWC/Wiki/blob/main/logoFondo.png" alt="Logo de Wineyard">
 
 
   **Cultivando Conexiones, Cosechando Innovación.**
