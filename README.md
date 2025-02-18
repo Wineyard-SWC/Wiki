@@ -1,19 +1,24 @@
 # 🍇 Wineyard
 
-![Logo de Wineyard](https://github.com/Wineyard-SWC/Wiki/blob/main/Wineyard%20Logo.png)
+<p align="center">
+  <img src="https://github.com/Wineyard-SWC/Wiki/blob/main/Wineyard%20Logo.png" alt="Logo de Wineyard">
+</p>
+
+
+
 **Cultivando Conexiones, Cosechando Innovación.**
 
 **Wineyard** es una consultoría de software dedicada a la creación de soluciones tecnológicas innovadoras y personalizadas. Nuestro enfoque combina:
 
 - 🏆 **Experiencia Técnica:** Contamos con un equipo experto en múltiples tecnologías y lenguajes de programación.
-  - ![React](https://ruta-a-imagen.com/react.png) **React**
-  - ![Next.js](https://ruta-a-imagen.com/nextjs.png) **Next.js**
-  - ![JavaScript](https://ruta-a-imagen.com/javascript.png) **JavaScript**
-  - ![Python](https://ruta-a-imagen.com/python.png) **Python**
-  - ![C#](https://ruta-a-imagen.com/csharp.png) **C#**
-  - ![.NET](https://ruta-a-imagen.com/dotnet.png) **.NET**
-  - ![HTML](https://ruta-a-imagen.com/html.png) **HTML**
-  - ![CSS](https://ruta-a-imagen.com/css.png) **CSS**
+  ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+  ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+  ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+  ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
     
 - 🧩 **Pensamiento Estratégico:** Analizamos en detalle las necesidades de cada cliente para proponer soluciones que impulsen su negocio.
   
