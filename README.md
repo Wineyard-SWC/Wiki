@@ -33,7 +33,7 @@
   
 Con esta fórmula, **Wineyard** logra transformar digitalmente empresas de diversas industrias, brindándoles herramientas y plataformas que generan valor a largo plazo. ¡Estamos listos para ayudarte a llevar tu organización al siguiente nivel!
 
-## 📖 Consula más informacion sobre nosotros
+## 📖 Consula más información sobre nosotros
 
 [![📖 Ver Wiki](https://img.shields.io/badge/Wiki-Wineyard-blueviolet?style=for-the-badge&logo=github)](https://github.com/Wineyard-SWC/Wiki/wiki/Inicio)
 
