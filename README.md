@@ -4,7 +4,7 @@
   <img src="https://github.com/Wineyard-SWC/Wiki/blob/main/logoFondo.png" alt="Logo de Wineyard">
 
 
-  <h3><em>Cultivando Conexiones, Cosechando Innovación.</em></h3>
+  <h3><em> Slogan: Cultivando Conexiones, Cosechando Innovación.</em></h3>
 </p>
 
 
@@ -14,12 +14,17 @@
 **Wineyard** es una consultoría de software dedicada a la creación de soluciones tecnológicas innovadoras y personalizadas. Nuestro enfoque combina:
 
 - 🏆 **Experiencia Técnica:** Contamos con un equipo experto en múltiples tecnologías y lenguajes de programación.
-    
 - 🧩 **Pensamiento Estratégico:** Analizamos en detalle las necesidades de cada cliente para proponer soluciones que impulsen su negocio.
-  
 - 💡 **Creatividad:** Diseñamos productos y servicios que no solo son funcionales, sino que sorprenden e inspiran a sus usuarios.
 
-## 🚀 Tecnologías y Herramientas
+## 📝 Misión de Wineyard
+"Impulsar la transformación digital de nuestros clientes mediante soluciones tecnológicas innovadoras y personalizadas, forjando conexiones profundas como las raíces."
+
+## 👓 Visión de Wineyard
+"Ser reconocidos como líderes en consultoría de software, donde cada proyecto se convierte en un punto de conexión para la innovación y la excelencia tecnológica."
+
+
+## 🛠️ Tecnologías y Herramientas
   <p align="center">
     <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
     <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js">
