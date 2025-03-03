@@ -40,5 +40,5 @@ Con esta fórmula, **Wineyard** logra transformar digitalmente empresas de diver
 
 ## 📖 Consula más información sobre nosotros
 
-[![📖 Ver Wiki](https://img.shields.io/badge/Wiki-Wineyard-blueviolet?style=for-the-badge&logo=github)](https://github.com/Wineyard-SWC/Wiki/wiki/Inicio)
+[![📖 Ver Wiki](https://img.shields.io/badge/Wiki-Wineyard-blueviolet?style=for-the-badge&logo=github)](https://github.com/Wineyard-SWC/Wiki/wiki/Home)
 
